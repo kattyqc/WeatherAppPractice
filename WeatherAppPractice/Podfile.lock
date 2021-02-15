@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.2)
+  - FlagKit (2.2)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - FlagKit
+  - SwiftyJSON (= 4.2.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - FlagKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  FlagKit: eca7dc89064b0c986302ba9acefad1bf80a435b1
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: e6a51ad815c9d0af4755f35e502d9fe4c44062e7
+
+COCOAPODS: 1.5.0
